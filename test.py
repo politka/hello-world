@@ -12,4 +12,3 @@ db.authenticate(MONGO_USER, MONGO_PASS)
 
 print(db)
 
---------------------
