@@ -1,14 +1,14 @@
 import pymongo
+
+
+
+
 #GitGuardian test 
-
-
-MONGO_HOST = "10.1.0.90"
+MONGO_HOST = "10.1.0.99"
 MONGO_PORT = 25
 MONGO_DB = "db_name"
 MONGO_USER = "username"
 MONGO_PASS = "fee3fa69-d0db-4efe-83713d24d65cb555"
-
-
 
 MONGO_HOST = "bp.com"
 MONGO_PORT = 25
